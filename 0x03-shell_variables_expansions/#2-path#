@@ -1,0 +1,4 @@
+case wq in
+    
+#!/bin/bash
+export PATH=$PATH:/action
